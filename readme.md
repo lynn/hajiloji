@@ -3,9 +3,11 @@ title: readme
 layout: default
 ---
 
-これは「はじめてのロジバン第二版」です。
+<!--これは「はじめてのロジバン第二版」です。--> This is the second version of "My First Lojban."
 
-以下、編集用のメモ…
+This is a translation by @lynn (la lalxu) of a work in Japanese by @cogas.
+
+<!--以下、編集用のメモ… --> (Below are some notes for editing...)
 
 ## Front matter
 
