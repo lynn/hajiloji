@@ -1,6 +1,6 @@
 ---
 layout: index
-title: はじめてのロジバン 第２版
+title: My First Lojban (version 2)
 bavlahi: 0
 ---
 
@@ -20,10 +20,10 @@ width: 30%;
 # fi'i do .ui ― Welcome! (^o^)
 
 {:.alert .alert-info role="alert"}
-<!-- **ニューゲーム暫定完成しました！** --> **"New Game" has been tentatively released!**
-<!-- 誤植や細かな修正を除けば完成しています！ 進化したはじロジをよろしくお願いします！ --> It'll be completed when the typos and tiny errors are ironed out. I hope you the evolved "My First Lojban".
+<!-- **ニューゲーム暫定完成しました！** --> **"New Game" section has been tentatively released!**
+<!-- 誤植や細かな修正を除けば完成しています！ 進化したはじロジをよろしくお願いします！ --> It'll be completed when the typos and tiny errors are ironed out. I hope you enjoy the evolved "My First Lojban".
 
-<!-- ようこそ！「はじめてのロジバン」は、ロジバン入門講座です！ --> Welcome! "My First Lojban" is an introductory course to Lojban!
+<!-- ようこそ！「はじめてのロジバン」は、ロジバン入門講座です！ --> Welcome! "My First Lojban" is an introductory course to Lojban.
 
 <!--ロジバンは人工言語の中でも、専門の文法用語の多さや、独特な文法構造のせいで難しいと思われがちです。--> Even among constructed languages, Lojban's richness in grammar jargon and peculiar grammar constructions give it the reputation of being difficult.
 
