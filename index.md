@@ -19,18 +19,18 @@ width: 30%;
 
 # fi'i do .ui ― Welcome! (^o^)
 
-{:.alert .alert-info role="alert"}
-<!-- **ニューゲーム暫定完成しました！** --> **"New Game" section has been tentatively released!**
-<!-- 誤植や細かな修正を除けば完成しています！ 進化したはじロジをよろしくお願いします！ --> It'll be completed when the typos and tiny errors are ironed out. I hope you enjoy the evolved "My First Lojban".
+<!-- {:.alert .alert-info role="alert"} -->
+<!-- **ニューゲーム暫定完成しました！** --> <!-- **"New Game" section has been tentatively released!** -->
+<!-- 誤植や細かな修正を除けば完成しています！ 進化したはじロジをよろしくお願いします！ --> <!-- It'll be completed when the typos and tiny errors are ironed out. I hope you enjoy the evolved "My First Lojban". -->
 
-<!-- ようこそ！「はじめてのロジバン」は、ロジバン入門講座です！ --> Welcome! "My First Lojban" is an introductory course to Lojban.
+<!-- ようこそ！「はじめてのロジバン」は、ロジバン入門講座です！ --> **Welcome! "My First Lojban" is an introductory course to Lojban.**
 
 <!--ロジバンは人工言語の中でも、専門の文法用語の多さや、独特な文法構造のせいで難しいと思われがちです。--> Even among constructed languages, Lojban's richness in grammar jargon and peculiar grammar constructions give it the reputation of being difficult.
 
-<!--しかし、ロジバンは従来の自然言語の「贅肉」を取り払った、非常にシンプルな言語だと言えます！  --> However, you could say that, because it gets rid of all the unnecessary bits of natural language, it's actually a very simple language!
+<!--しかし、ロジバンは従来の自然言語の「贅肉」を取り払った、非常にシンプルな言語だと言えます！  --> However, because it gets rid of all the unnecessary bits of natural languages, you could say that it's actually a very simple language!
 
 <!--このサイトでは、こしょん(kocon),そら(soran),セヴァン(sevan)といった女の子たちの会話をききながら、  
-楽しくロジバン文法の基礎を学ぶことができます。--> On this site, you can learn the foundations of Lojban grammar by reading the conversations between three girls called Koshon (kocon), Sora (soran), and Sevan (sevan).
+楽しくロジバン文法の基礎を学ぶことができます。--> On this site, you can learn the foundations of Lojban grammar by reading the light-hearted conversations between three girls called Koshon (kocon), Sora (soran), and Sevan (sevan).
 
 [![]({{site.baseurl}}/assets/pixra/top/start_button.svg){:.center-block #startbutton}]({{site.baseurl}}/article/nunctu/0)
 
