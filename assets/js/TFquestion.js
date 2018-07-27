@@ -13,6 +13,6 @@ function yesnocheck(){
 	for (var i=0; i<num; i++){
 		if (data[i] == answer[i]) cor++;
 	}
-	$("#yesnoans").empty().append(cor+"/"+num+"問正解！");
-	if(cor==num) $("#yesnoans").append("全問正解！おめでとう！");
+	$("#yesnoans").empty().append(cor+"/"+num+" answers correct！");
+	if(cor==num) $("#yesnoans").append(" That's all of them! Good job!");
 };
