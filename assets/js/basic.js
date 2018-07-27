@@ -17,11 +17,11 @@ $(function () {
 //  markdownize(/::::/g, "</div>")
   $('.note').prepend("<div class='title'>NOTE</div>");
   $('.memo').prepend("<div class='title'>MEMO</div>");
-  $('.problem').prepend("<div class='title'>もんだい</div>");
+  $('.problem').prepend("<div class='title'>Question</div>");
   for (var i=0; i<=$("#TFquestion li").length; i++){
 	   st = String(i)
      $("#TFquestion li").eq(i)
-	    .append('<p><div class="btn-group" data-toggle="buttons"><label class="btn btn-default"><input type="radio" autocomplete="off" name="q' + st + '" value=1>○</label><label class="btn btn-default"><input type="radio" autocomplete="off" name="q' + st + '" value=0>×</label></div></p>');
+	    .append('<p><div class="btn-group" data-toggle="buttons"><label class="btn btn-default"><input type="radio" autocomplete="off" name="q' + st + '" value=1>True</label><label class="btn btn-default"><input type="radio" autocomplete="off" name="q' + st + '" value=0>False</label></div></p>');
   };
   $('.inter li a').attr("href", function(i, val){
     return location.origin + "/hajiloji" + val;
