@@ -5,10 +5,10 @@ layout: default
 <nav>
 	<ul class="pager">
 		{% if page.prulahi %}
-			<li class="previous"><a href="{{site.baseurl}}/article/nunctu{{page.mai}}/{{ page.prulahi }}.html">前へ</a></li>
+			<li class="previous"><a href="{{site.baseurl}}/article/nunctu{{page.mai}}/{{ page.prulahi }}.html">Previous</a></li>
 		{% endif %}
 		{% if page.bavlahi %}
-			<li class="next"><a href="{{site.baseurl}}/article/nunctu{{page.mai}}/{{ page.bavlahi }}.html">次へ</a></li>
+			<li class="next"><a href="{{site.baseurl}}/article/nunctu{{page.mai}}/{{ page.bavlahi }}.html">Next</a></li>
 		{% endif %}
 	</ul>
 </nav>
@@ -20,7 +20,7 @@ layout: default
 <hr>
 
 {% if page.TFa %}
-<h3 >○×問題</h3>
+<h3 >True/False Questions</h3>
 <div id="TFquestion">
 <ol >
 {% for elem in page.TFq %}
@@ -29,14 +29,14 @@ layout: default
 </ol>
 </div>
 
-<p><input type="button" class="btn btn-default btn-lg" onclick="yesnocheck();" value="採点する" id="yesnobtn"><span id="yesnoans">-/-問正解！</span></p>
+<p><input type="button" class="btn btn-default btn-lg" onclick="yesnocheck();" value="Check" id="yesnobtn"><span id="yesnoans">-/- answers correct!</span></p>
 <input type="hidden" name="answer" value="{{ page.TFa }}">
 
 <hr>
 {% endif %}
 
 {% if page.TFa or page.ctuca %}
-<h3 >今回出てきた単語</h3>
+<h3 >Words introduced in this lesson</h3>
 
 <div>
 	<table id="vocab" class="table"></table>
@@ -47,10 +47,10 @@ layout: default
 <nav>
 	<ul class="pager">
 		{% if page.prulahi %}
-			<li class="previous"><a href="{{site.baseurl}}/article/nunctu{{page.mai}}/{{ page.prulahi }}.html">前へ</a></li>
+			<li class="previous"><a href="{{site.baseurl}}/article/nunctu{{page.mai}}/{{ page.prulahi }}.html">Previous</a></li>
 		{% endif %}
 		{% if page.bavlahi %}
-			<li class="next"><a href="{{site.baseurl}}/article/nunctu{{page.mai}}/{{ page.bavlahi }}.html">次へ</a></li>
+			<li class="next"><a href="{{site.baseurl}}/article/nunctu{{page.mai}}/{{ page.bavlahi }}.html">Next</a></li>
 		{% endif %}
 	</ul>
 </nav>
