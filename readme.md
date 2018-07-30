@@ -3,9 +3,12 @@ title: readme
 layout: default
 ---
 
-<!--これは「はじめてのロジバン第二版」です。--> This is the second version of "My First Lojban."
+<!--これは「はじめてのロジバン第二版」です。-->
+This is the second version of 「はじめてのロジバン第二版」 (a.k.a. HajiLoji, a.k.a. "My First Lojban").
 
-This is a translation by @lynn (la lalxu) of a work in Japanese by @cogas.
+This is a translation by @lynn (la lalxu) of a work in Japanese by @cogas. It is nowhere near finished!
+
+You can start reading [here](https://foldr.moe/hajiloji).
 
 <!--以下、編集用のメモ… --> (Below are some notes for editing...)
 
